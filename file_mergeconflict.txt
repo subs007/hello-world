@@ -1,0 +1,3 @@
+This is data from devops1 branch
+
+here we are testing our merge conflict scenario
